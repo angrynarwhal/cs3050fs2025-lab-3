@@ -4,6 +4,8 @@
 // can certainly add your own printing code as well to help you 
 // debug things.
 
+// FUTURE NOTE: Provide code examples OUTSIDE of the PDF of slides ...
+// more working examples .. 
 
 // NOTE: If you end up changing main.c, just zip it up with hash.c in
 // your assignment submission on canvas. 
