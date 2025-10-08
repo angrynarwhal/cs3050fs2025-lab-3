@@ -3,6 +3,12 @@
 // things that print out information for debugging purposes.  You
 // can certainly add your own printing code as well to help you 
 // debug things.
+
+
+// NOTE: If you end up changing main.c, just zip it up with hash.c in
+// your assignment submission on canvas. 
+
+
 //
 // Note also that the TAs may print out information when checking
 // to see if your code actually works properly.
