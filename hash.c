@@ -17,7 +17,7 @@ void * SearchNoCollision(void * hashtable, int key, int elementSize, int (*HashF
     return NULL;
 }
 
-
+// div and multi: Clarify
 int DivMethod(int key)
 {
 	return 0;
